@@ -11,10 +11,4 @@ document.getElementById("hero-return").addEventListener("click", function () {
 });
 /////////////////////////////////////////////////////////////////////
 
-
-    document.getElementById("menu-hamburguer").addEventListener("click", function() {
-        const navList = document.querySelector(".nav-list");
-        navList.classList.toggle("active");
-    });
-
-
+ 
