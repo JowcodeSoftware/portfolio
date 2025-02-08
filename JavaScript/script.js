@@ -10,5 +10,4 @@ document.getElementById("hero-return").addEventListener("click", function () {
     document.getElementById("hero").scrollIntoView({ behavior: "smooth" });
 });
 /////////////////////////////////////////////////////////////////////
-
  

@@ -42,7 +42,6 @@ header {
     box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
 }
 
-
 nav ul {
     list-style: none;
     padding: 0; /* Remove o padding padrão das listas */
@@ -124,7 +123,6 @@ ul {
     padding: 0; /* Remove o padding padrão das listas */
     margin: 0; /* Remove a margem padrão das listas */
 }
-
 
 /* Estilos gerais da seção Hero */
 #hero {
